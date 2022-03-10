@@ -36,6 +36,7 @@ body {
 .display-7 {
   font-family: 'Raleway Bold', sans-serif;
   font-size: 1.4rem;
+  font-weight: 700;
   line-height: 1.5;
 }
 .display-7 > .mbr-iconfont {
