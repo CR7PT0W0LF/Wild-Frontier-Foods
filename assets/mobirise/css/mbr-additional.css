@@ -42,7 +42,7 @@ body {
 }
 .display-7 > .mbr-iconfont {
   font-size: 1.75rem;
-   color: #FFFFFF;
+  
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
