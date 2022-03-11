@@ -37,11 +37,12 @@ body {
   font-family: 'Raleway Bold', sans-serif;
   font-size: 1.4rem;
   font-weight: 700;
-  color: #FFFFFF;
+ 
   line-height: 1.5;
 }
 .display-7 > .mbr-iconfont {
   font-size: 1.75rem;
+   color: #FFFFFF;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
